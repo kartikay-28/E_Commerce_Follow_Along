@@ -10,3 +10,15 @@ Updated readme.md
 3} Node.js Backend Setup: Set up a simple Node.js server to prepare for API integration in future milestones.
 4) Tailwind CSS Configuration: Integrate and configure Tailwind CSS to enable modern, responsive, and utility-based styling.
 5) Login Page Development: Create the first user interface of your e-commerce application, focusing on both functionality and styling.
+# Milestone #3
+1) Backend folder structure
+2) Create a structured hierarchy for organizing routes, controllers, models, and middleware.
+
+# Server Setup
+
+1) Use Node.js and Express to create a backend server.
+2) Configure the server to listen on a designated port. Database Connection
+3) Integrate MongoDB for efficient data storage.
+4) Confirm the connection between the server and MongoDB.
+5) Error Handling
+6) Provide clear error messages for better debugging and user feedback.
