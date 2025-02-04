@@ -31,4 +31,4 @@ Updated readme.md
 2) User Controller: Handles user-related actions such as registration and data retrieval.
 3) Multer Integration: Enables file uploads for storing user profile pictures.
 4) API Routes: Includes endpoints for user creation and fetching user details.
-5) README Update: Documented progress and updated repository.
+5) README Update: Documented progress and updated repository.  
