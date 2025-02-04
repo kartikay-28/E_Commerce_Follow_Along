@@ -22,3 +22,13 @@ Updated readme.md
 4) Confirm the connection between the server and MongoDB.
 5) Error Handling
 6) Provide clear error messages for better debugging and user feedback.
+
+# Milestone 4: Creating User Model and Controller
+
+# Key Features
+
+1) User Model: Defines the structure of user data with attributes like name, email, password, and profile picture.
+2) User Controller: Handles user-related actions such as registration and data retrieval.
+3) Multer Integration: Enables file uploads for storing user profile pictures.
+4) API Routes: Includes endpoints for user creation and fetching user details.
+5) README Update: Documented progress and updated repository.
