@@ -108,19 +108,5 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
-## 🔜 Next Steps
-- Implement authentication and session management.
-- Develop additional features for product listing, cart, and checkout.
-- Improve UI/UX design for better user experience.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
 
 
