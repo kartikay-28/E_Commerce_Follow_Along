@@ -125,4 +125,3 @@ This project is an e-commerce website developed through a series of milestones, 
 5. Open `http://localhost:3000/` in your browser.
 
 ---
-
