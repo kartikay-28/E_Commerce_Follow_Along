@@ -17,7 +17,8 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 8: Product Card Component & Homepage Layout](#milestone-8-product-card-component--homepage-layout)  
   - [Milestone 9: Product Input Form](#milestone-9-product-input-form)  
   - [Milestone 10: Product Schema & Endpoint Creation](#milestone-10-product-schema--endpoint-creation)
-  - [Milestone 11: Dynamic Homepage with Product Data](#milestone-11-dynamic-homepage-with-product-data)  
+  - [Milestone 11: Dynamic Homepage with Product Data](#milestone-11-dynamic-homepage-with-product-data)
+  - [Milestone 12: My Products Page - Filtering by User Email](#milestone-12-my-products-page---filtering-by-user-email)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -182,6 +183,29 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Pushed the updated code to the *GitHub repository*.  
 - ✅ Updated the *README.md* file with Milestone 11 details.  
 - ✅ Shared the repository link for submission.
+
+---
+
+### Milestone 12: My Products Page - Filtering by User Email  
+
+✅ *Goals:*  
+
+#### 1️⃣ Backend - Fetch Products by User Email  
+- Created an API endpoint to *retrieve only the products* added by the logged-in user.  
+- Used *Express.js* and *Mongoose* to *filter products based on the user's email* stored in MongoDB.  
+- Ensured *secure and efficient querying* to fetch only relevant data.  
+
+#### 2️⃣ Frontend - Fetch & Display User-Specific Products  
+- Created a function to *fetch products linked to the logged-in user's email*.  
+- Passed the received data to the existing *Product Card Component*.  
+- Used .map() to dynamically *render only the user's products* on the *"My Products"* page.  
+
+#### 3️⃣ Why This Matters?  
+- Enables *personalized product listings* based on the logged-in user's email.  
+- Improves *data filtering skills*, ensuring only relevant data is sent to the client.  
+- Enhances user experience by displaying only their *added products* instead of all products.
+
+---
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
