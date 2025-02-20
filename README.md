@@ -16,12 +16,9 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 7: User Login & Authentication](#milestone-7-user-login--authentication)  
   - [Milestone 8: Product Card Component & Homepage Layout](#milestone-8-product-card-component--homepage-layout)  
   - [Milestone 9: Product Input Form](#milestone-9-product-input-form)  
-  - [Milestone 10: Product Schema & Endpoint Creation](#milestone-10-product-schema--endpoint-creation)  
-- [How to Run the Project](#-how-to-run-the-project)  
-- [Next Steps](#-next-steps)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-
+  - [Milestone 10: Product Schema & Endpoint Creation](#milestone-10-product-schema--endpoint-creation)
+  - [Milestone 11: Dynamic Homepage with Product Data](#milestone-11-dynamic-homepage-with-product-data)  
+- [How to Run the Project](#-how-to-run-the-project) 
 ---
 
 ## 🛠 Tech Stack  
