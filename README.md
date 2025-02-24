@@ -213,20 +213,20 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ✅ Goals:  
 
-#### ⿡ Backend - Update Product Endpoint
+#### 1️⃣ Backend - Update Product Endpoint
 - Write an endpoint that will receive new data and update the existing data inside MongoDB.
 - Utilized Express.js and Mongoose to handle update operations securely and efficiently.
 
-#### ⿢ Frontend - Edit Button & Auto-Filled Form
+#### 2️⃣ Frontend - Edit Button & Auto-Filled Form
 - Added an Edit button to each product card to enable product modification.
 - On clicking Edit, the form auto-fills with the existing product data, allowing updates to name, description, price, and images.
 - Implemented real-time form validation and preview of changes before submission.
 
-#### ⿣ User Experience Enhancement
+#### 3️⃣ User Experience Enhancement
 - Provided a smooth transition between the product list and the edit form.
 - Ensured validation checks are in place to maintain data integrity during updates.
 
-#### ⿤ Submission Steps
+#### 4️⃣ Submission Steps
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 13 details.
 - ✅ Shared the repository link for submission.
