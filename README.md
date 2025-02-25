@@ -20,6 +20,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 11: Dynamic Homepage with Product Data](#milestone-11-dynamic-homepage-with-product-data)
   - [Milestone 12: My Products Page - Filtering by User Email](#milestone-12-my-products-page---filtering-by-user-email)
   - [Milestone 13: Edit Product Functionality](#milestone-13-edit-product-functionality)
+  - [Milestone 14: Delete Product Functionality](#milestone-14-delete-product-functionality)
 
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
@@ -229,6 +230,29 @@ This project is an e-commerce website developed through a series of milestones, 
 #### ⿤ Submission Steps
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 13 details.
+- ✅ Shared the repository link for submission.
+
+---
+
+### Milestone 14: Delete Product Functionality
+
+✅ *Goals:*
+
+#### 1️⃣ Backend - Delete Product Endpoint
+- Created an endpoint that allows deletion of a product using its specific ID.
+- Utilized Express.js and Mongoose to handle delete operations securely and efficiently.
+
+#### 2️⃣ Frontend - Delete Button Integration
+- Added a Delete button to each product card.
+- When clicked, the product ID is sent to the server endpoint to trigger the deletion.
+
+#### 3️⃣ User Experience Enhancement
+- Provided confirmation prompts to avoid accidental deletions.
+- Implemented smooth transitions and updates to the UI when a product is deleted.
+
+#### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 14 details.
 - ✅ Shared the repository link for submission.
 
 ---
