@@ -21,6 +21,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 12: My Products Page - Filtering by User Email](#milestone-12-my-products-page---filtering-by-user-email)
   - [Milestone 13: Edit Product Functionality](#milestone-13-edit-product-functionality)
   - [Milestone 14: Delete Product Functionality](#milestone-14-delete-product-functionality)
+  - [Milestone 15: Navbar Component & Navigation](#milestone-15-Navbar-Component-&-Navigation)
 
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
@@ -253,6 +254,33 @@ This project is an e-commerce website developed through a series of milestones, 
 #### 4️⃣ Submission Steps
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 14 details.
+- ✅ Shared the repository link for submission.
+
+---
+
+### Milestone 15: Navbar Component & Navigation
+
+✅ *Goals:*
+
+#### 1️⃣ Creating the Navbar Component
+- Designed a **responsive Navbar** with navigation links for:
+  - Home
+  - My Products
+  - Add Product
+  - Cart
+- Ensured **consistency across all pages** for a seamless experience.
+
+#### 2️⃣ Implementing Reusability
+- Used the Navbar **across all screens** to maintain a uniform layout.
+- Optimized **component structure** for easy scalability.
+
+#### 3️⃣ Enhancing Responsiveness
+- Used **CSS Flexbox/Grid** & **Tailwind CSS** to make the Navbar adaptable to different screen sizes.
+- Implemented **hamburger menu** for mobile users.
+
+#### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 15 details.
 - ✅ Shared the repository link for submission.
 
 ---
