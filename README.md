@@ -21,7 +21,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 12: My Products Page - Filtering by User Email](#milestone-12-my-products-page---filtering-by-user-email)
   - [Milestone 13: Edit Product Functionality](#milestone-13-edit-product-functionality)
   - [Milestone 14: Delete Product Functionality](#milestone-14-delete-product-functionality)
-  - [Milestone 15: Navbar Component & Navigation](#milestone-15-Navbar-Component-&-Navigation)
+  - [Milestone 15: Navbar Component & Navigation](#milestone-15-navbar-component--navigation)
   - [Milestone 16: Product Info Page](#milestone-16-Product-Info-Page)
 
 - [How to Run the Project](#-how-to-run-the-project) 
