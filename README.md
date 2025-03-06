@@ -23,6 +23,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 14: Delete Product Functionality](#milestone-14-delete-product-functionality)
   - [Milestone 15: Navbar Component & Navigation](#milestone-15-navbar-component--navigation)
   - [Milestone 16: Product Info Page](#milestone-16-Product-Info-Page)
+  - [Milestone 17: Add to Cart Functionality](#milestone-17-Add-to-Cart-Functionality)
 
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
@@ -312,6 +313,37 @@ This project is an e-commerce website developed through a series of milestones, 
 #### 5️⃣ Submission Steps  
 - ✅ Pushed the updated code to the GitHub repository.  
 - ✅ Updated the README.md file with Milestone 16 details.  
+- ✅ Shared the repository link for submission.  
+
+---
+
+### Milestone 17: Add to Cart Functionality  
+
+✅ *Goals:*  
+
+#### 1️⃣ Update User Schema for Cart Functionality  
+- Modified the **user schema** to include a `cart` field.  
+- Structured the cart field to store an array of product objects containing:  
+  - Product ID  
+  - Name  
+  - Price  
+  - Quantity  
+
+#### 2️⃣ Backend - Add to Cart Endpoint  
+- Created an endpoint to **receive product details** and store them in the user's cart.  
+- Ensured secure handling of requests and efficient database updates using **MongoDB & Mongoose**.  
+
+#### 3️⃣ Frontend - Add to Cart Integration  
+- Connected the **"Add to Cart"** button from the Product Info Page to the backend API.  
+- Stored **cart data in the database** and updated the UI dynamically.  
+
+#### 4️⃣ User Experience Enhancements  
+- Implemented a **notification system** to confirm when a product is added to the cart.  
+- Ensured **real-time cart updates** without needing to refresh the page.  
+
+#### 5️⃣ Submission Steps  
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the README.md file with Milestone 17 details.  
 - ✅ Shared the repository link for submission.  
 
 ---
