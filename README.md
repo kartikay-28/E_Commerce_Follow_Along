@@ -26,6 +26,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 17: Add to Cart Functionality](#milestone-17-Add-to-Cart-Functionality)
   - [Milestone 18: Cart Page & Checkout Functionality](#milestone-18-Cart-Page-and-Checkout-Functionality)
   - [Milestone 19: Cart Quantity Management](#milestone-19-Cart-Quantity-Management)
+  - [Milestone 20: Profile Page ](#milestone-20-Profile-Page)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
