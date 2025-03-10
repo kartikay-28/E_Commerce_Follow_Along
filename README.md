@@ -382,6 +382,38 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
+### Milestone 19: Cart Quantity Management
+
+✅ *Goals:*
+
+### 1️⃣ Frontend - Cart Page UI Enhancements
+
+- Added + and - buttons next to each product to modify its quantity.
+
+- Ensured real-time updates for accurate pricing adjustments.
+
+### 2️⃣ Backend - Quantity Management Endpoint
+
+- Created two API endpoints to increase and decrease product quantity in the cart.
+
+- Integrated logic to prevent negative quantities and handle item removal automatically when reduced to zero.
+
+### 3️⃣ Enhancing User Experience
+
+- Ensured instant feedback when quantity adjustments are made.
+
+- Maintained a clean UI design with clear quantity controls.
+
+### 4️⃣ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+
+- ✅ Updated the README.md file with Milestone 19 details.
+
+- ✅ Shared the repository link for submission.
+
+--- 
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
