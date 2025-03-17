@@ -28,6 +28,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 19: Cart Quantity Management](#milestone-19-Cart-Quantity-Management)
   - [Milestone 20: Profile Page](#milestone-20-Profile-Page)
   - [Milestone 21: Address Form Page](#milestone-21-Address-Form-Page)
+  - [Milestone 22: Address Storage Endpoint](#milestone-22-Address-Storage-Endpoint)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -483,6 +484,28 @@ This project is an e-commerce website developed through a series of milestones, 
 
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 21 details.
+- ✅ Shared the repository link for submission.
+
+---
+# Milestone 22: Address Storage Endpoint
+
+✅ **Goals:**
+
+### 1️⃣ Backend - Address Storage Endpoint
+
+- Created an API endpoint that receives address data from the frontend address form.
+- Added logic to store the received address inside the `address` array within the user's profile collection in the database.
+- Ensured endpoint security by restricting access to authenticated users only.
+
+### 2️⃣ Enhancing User Experience
+
+- Ensured proper error handling to manage invalid data entries.
+- Implemented success and error response messages for clear user feedback.
+
+### 3️⃣ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 22 details.
 - ✅ Shared the repository link for submission.
 
 ---
