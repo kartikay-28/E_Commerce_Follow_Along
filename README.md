@@ -26,6 +26,8 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 17: Add to Cart Functionality](#milestone-17-Add-to-Cart-Functionality)
   - [Milestone 18: Cart Page & Checkout Functionality](#milestone-18-Cart-Page-and-Checkout-Functionality)
   - [Milestone 19: Cart Quantity Management](#milestone-19-Cart-Quantity-Management)
+  - [Milestone 20: Profile Page](#milestone-20-Profile-Page)
+  - [Milestone 21: Address Form Page](#milestone-21-Address-Form-Page)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -453,6 +455,38 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Shared the repository link for submission.
 
 ---
+
+# Milestone 21: Address Form Page
+
+✅ **Goals:**
+
+### 1️⃣ Frontend - Address Form Page
+
+- Created an address form page that collects the following details:
+  - **Country**
+  - **City**
+  - **Address Line 1**
+  - **Address Line 2**
+  - **ZIP Code**
+  - **Address Type** (e.g., Home, Office, etc.)
+
+- Implemented a state that stores the address input data for better management.
+
+- Ensured that when users click the "Add Address" button on the Profile Page, they are navigated to this form page.
+
+### 2️⃣ Enhancing User Experience
+
+- Designed the address form to be user-friendly and intuitive.
+- Ensured clear input labels and proper validation for required fields.
+
+### 3️⃣ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 21 details.
+- ✅ Shared the repository link for submission.
+
+---
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
