@@ -32,6 +32,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 23: Product Image Upload Feature](#milestone-23-Product-Image-Upload-Feature)
   - [Milestone 24: Order Confirmation Page](#milestone-24-Order-Confirmation-Page)
   - [Milestone 25: Place Order Endpoint](#milestone-25-Place-Order-Endpoint)
+  - [Milestone 26: Get User Orders Endpoint](#milestone-26-Get-User-Orders-Endpoint)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -597,7 +598,27 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
+### Milestone 26: Get User Orders Endpoint 
 
+✅ **Goals:**  
+
+### 1️⃣ Backend - User Orders Endpoint  
+
+- Created an API endpoint that retrieves all orders for a specific user.  
+- Implemented logic to receive the user's email and retrieve the corresponding `_id`.  
+- Used the retrieved `_id` to query and fetch all orders associated with that user from the database.  
+
+### 2️⃣ Enhancing User Experience  
+
+- Ensured proper error handling for cases such as invalid email, missing orders, or database issues.  
+- Implemented clear success and error response messages for better user feedback.  
+
+### 3️⃣ Submission Steps  
+
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the README.md file with Milestone 26 details.  
+- ✅ Shared the repository link for submission.  
+---
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
