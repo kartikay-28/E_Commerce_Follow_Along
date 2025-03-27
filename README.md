@@ -31,6 +31,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 22: Address Storage Endpoint](#milestone-22-Address-Storage-Endpoint)
   - [Milestone 23: Product Image Upload Feature](#milestone-23-Product-Image-Upload-Feature)
   - [Milestone 24: Order Confirmation Page](#milestone-24-Order-Confirmation-Page)
+  - [Milestone 25: Place Order Endpoint](#milestone-25-Place-Order-Endpoint)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -563,6 +564,39 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Shared the repository link for submission.
 
 ---
+
+# Milestone 25: Place Order Endpoint
+
+✅ **Goals:**
+
+### 1️⃣ Backend - Place Order Endpoint
+
+- Created a secure **Place Order** endpoint that:
+  - ✅ Receives product details, user information, and selected address from the frontend.
+  - ✅ Extracts the user's email to retrieve their `_id` from the database.
+  - ✅ Creates a **separate order** entry for each product while maintaining the same delivery address.
+  - ✅ Stores the order details in the **MongoDB orders collection** using the previously created order schema.
+
+### 2️⃣ Enhancing Functionality
+
+- Implemented proper error handling to manage invalid data or failed order creation.
+- Ensured only authenticated users can access the endpoint for added security.
+- Included clear success and error response messages for better frontend integration.
+
+### 3️⃣ Learning Outcome
+
+- Learned how to:
+  - Structure an effective **Place Order** endpoint.
+  - Manage and store order data efficiently in MongoDB.
+
+### 4️⃣ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 25 details.
+- ✅ Shared the repository link for submission.
+
+---
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
