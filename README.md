@@ -33,6 +33,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 24: Order Confirmation Page](#milestone-24-Order-Confirmation-Page)
   - [Milestone 25: Place Order Endpoint](#milestone-25-Place-Order-Endpoint)
   - [Milestone 26: Get User Orders Endpoint](#milestone-26-Get-User-Orders-Endpoint)
+  - [Milestone 27: My Orders Page ](#milestone-27-My-Orders-Page)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -619,6 +620,29 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Updated the README.md file with Milestone 26 details.  
 - ✅ Shared the repository link for submission.  
 ---
+### Milestone 27: My Orders Page  
+
+✅ **Goals:**  
+
+### 1️⃣ Frontend - My Orders Page  
+
+- Created a dedicated `My Orders` page to display all user orders.  
+- Implemented a `GET` request to the `/my-orders` endpoint to fetch the user's orders.  
+- Sent the user's email in the request to retrieve relevant orders from the database.  
+
+### 2️⃣ Enhancing User Experience  
+
+- Displayed order details in a structured format for better readability.  
+- Added error handling for cases such as missing orders or failed requests.  
+- Integrated the `My Orders` page into the navigation bar for easy access.  
+
+### 3️⃣ Submission Steps  
+
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the README.md file with Milestone 27 details.  
+- ✅ Shared the repository link for submission.  
+---
+
 ## ▶ How to Run the Project  
 1. Clone the repository:  
    ```bash  
