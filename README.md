@@ -34,6 +34,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 25: Place Order Endpoint](#milestone-25-Place-Order-Endpoint)
   - [Milestone 26: Get User Orders Endpoint](#milestone-26-Get-User-Orders-Endpoint)
   - [Milestone 27: My Orders Page ](#milestone-27-My-Orders-Page)
+  - [Milestone 28: Cancel Order Functionality ](#milestone-28-Cancel-Order-Functionality)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -642,6 +643,36 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Updated the README.md file with Milestone 27 details.  
 - ✅ Shared the repository link for submission.  
 ---
+### Milestone 28: Cancel Order Functionality  
+
+✅ **Goals:**  
+
+### 1️⃣ Backend - Cancel Order Endpoint  
+
+- Created a new API endpoint to handle order cancellations.  
+- Implemented logic to receive the `orderId` from the request.  
+- Retrieved the order using the provided `orderId` and updated its status to `"canceled"`.  
+- Saved the updated order back to the database.  
+
+### 2️⃣ Frontend - My Orders Page Update  
+
+- Added a **Cancel Order** button for each order in the `My Orders` page.  
+- Ensured that the cancel button is **not displayed** for already canceled orders.  
+- Sent a request to the cancel order endpoint when the button is clicked.  
+- Updated the UI to reflect the canceled status after a successful cancellation.  
+
+### 3️⃣ Enhancing User Experience  
+
+- Handled potential errors, such as invalid order IDs or already canceled orders.  
+- Provided feedback to the user on the cancellation status.  
+
+### 4️⃣ Submission Steps  
+
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the README.md file with Milestone 28 details.  
+- ✅ Shared the repository link for submission.  
+---
+
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
