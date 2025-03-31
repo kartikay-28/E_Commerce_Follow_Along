@@ -35,6 +35,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 26: Get User Orders Endpoint](#milestone-26-Get-User-Orders-Endpoint)
   - [Milestone 27: My Orders Page ](#milestone-27-My-Orders-Page)
   - [Milestone 28: Cancel Order Functionality ](#milestone-28-Cancel-Order-Functionality)
+  - [Milestone 29: PayPal Payment Integration](#milestone-29-PayPal-Payment-Integration)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -671,6 +672,43 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Pushed the updated code to the GitHub repository.  
 - ✅ Updated the README.md file with Milestone 28 details.  
 - ✅ Shared the repository link for submission.  
+---
+Here's your **README** for Milestone 29 following the same pattern:  
+
+---
+
+### **Milestone 29: PayPal Payment Integration**  
+
+✅ **Goals:**  
+
+### 1️⃣ **Setting Up PayPal Sandbox Account**  
+
+- Created a **PayPal Developer Account** and accessed the **Sandbox Accounts** section.  
+- Copied and saved the **Sandbox UserID** for testing transactions.  
+- Retrieved the **Client ID** from the PayPal Developer Dashboard for API integration.  
+
+### 2️⃣ **Adding Payment Options to the Order Confirmation Page**  
+
+- Implemented **two payment options**:  
+  - **Cash on Delivery (COD)**  
+  - **Online Payment (via PayPal)**  
+- Used radio buttons to allow users to select their preferred payment method.  
+
+### 3️⃣ **Displaying PayPal Button**  
+
+- Configured logic to **display the PayPal payment button** only when "Online Payment" is selected.  
+- Ensured that selecting **COD** hides the PayPal payment option.  
+
+### 4️⃣ **Next Steps for Milestone 30**  
+
+- In the next milestone, we will implement the actual PayPal payment functionality.  
+
+### 5️⃣ **Submission Steps**  
+
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the **README.md** file with Milestone 29 details.  
+- ✅ Shared the repository link for submission.  
+
 ---
 
 
