@@ -41,6 +41,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 32: Storing and Accessing Mail in Global State with Redux](#milestone-32-Storing-and-Accessing-Mail-in-Global-State-with-Redux)
   - [Milestone 33: Creating and Storing JWT Token in Cookies](#milestone-33-Creating-and-Storing-JWT-Token-in-Cookies)
   - [Milestone 34: Validating JWT Token Stored in Cookies](#milestone-34-Validating-JWT-Token-Stored-in-Cookies)
+  - [Milestone 35: Deploying Your Project](#milestone-35-Deploying-Your-Project)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -852,6 +853,32 @@ Good luck, Kalvians! ✨
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 34 details.
 - ✅ Shared the repository link for submission.
+
+Good luck, Kalvians! ✨
+
+---
+
+# Milestone 35: Deploying Your Project
+
+## ✅ Goals:
+
+### 1️⃣ Deploying the Backend
+- Deployed the backend on a cloud service (e.g., Heroku, AWS, DigitalOcean, etc.).
+- Retrieved the backend deployment link and ensured it was accessible.
+
+### 2️⃣ Deploying the Frontend
+- Replaced the local backend URLs in the frontend code with the backend deployment link.
+- Deployed the frontend to a hosting service (e.g., Netlify, Vercel, or any other platform).
+- Verified that the frontend was connected to the deployed backend and functioning properly.
+
+### 3️⃣ Full Deployment Verification
+- Ensured that both the frontend and backend were correctly deployed and were working as expected.
+- Conducted final tests to confirm that the website was fully functional with deployed backend and frontend.
+
+### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Deployed both the frontend and backend.
+- ✅ Shared the deployment link in the assignment submission section.
 
 Good luck, Kalvians! ✨
 
