@@ -39,6 +39,7 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 30: Integrating Online Payments with PayPal](#milestone-30-Integrating-Online-Payments-with-PayPal)
   - [Milestone 31: Global State Management with Redux](#milestone-31-Global-State-Management-with-Redux)
   - [Milestone 32: Storing and Accessing Mail in Global State with Redux](#milestone-32-Storing-and-Accessing-Mail-in-Global-State-with-Redux)
+  - [Milestone 33: Creating and Storing JWT Token in Cookies](#milestone-33-Creating-and-Storing-JWT-Token-in-Cookies)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -794,6 +795,35 @@ Good luck, Kalvians! ✨
 ### 4️⃣ Submission Steps
 - ✅ Pushed the updated code to the GitHub repository.
 - ✅ Updated the README.md file with Milestone 32 details.
+- ✅ Shared the repository link for submission.
+
+Good luck, Kalvians! ✨
+
+---
+
+
+# Milestone 33: Creating and Storing JWT Token in Cookies
+
+## ✅ Goals:
+
+### 1️⃣ Backend - JWT Token Creation
+- Installed the `jsonwebtoken` package using:
+  ```bash
+  npm install jsonwebtoken
+  ```
+- Used the `sign` method to create a JWT token, including the user's email and ID.
+
+### 2️⃣ Storing JWT Token in Cookies
+- Set an expiration time for the JWT token using `maxAge`.
+- Added the JWT token to the response as a cookie to store it in the browser.
+
+### 3️⃣ Enhancing Security
+- Ensured that the JWT token is stored securely inside a cookie, facilitating seamless authentication.
+- Implemented the cookie-based token storage to manage user sessions.
+
+### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 33 details.
 - ✅ Shared the repository link for submission.
 
 Good luck, Kalvians! ✨
