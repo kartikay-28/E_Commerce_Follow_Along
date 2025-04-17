@@ -37,6 +37,8 @@ This project is an e-commerce website developed through a series of milestones, 
   - [Milestone 28: Cancel Order Functionality ](#milestone-28-Cancel-Order-Functionality)
   - [Milestone 29: PayPal Payment Integration](#milestone-29-PayPal-Payment-Integration)
   - [Milestone 30: Integrating Online Payments with PayPal](#milestone-30-Integrating-Online-Payments-with-PayPal)
+  - [Milestone 31: Global State Management with Redux](#milestone-31-Global-State-Management-with-Redux)
+  - [Milestone 32: Storing and Accessing Mail in Global State with Redux](#milestone-32-Storing-and-Accessing-Mail-in-Global-State-with-Redux)
 - [How to Run the Project](#-how-to-run-the-project) 
 ---
 
@@ -743,7 +745,7 @@ This project is an e-commerce website developed through a series of milestones, 
 
 ---
 
-# Milestone 31 - Global State Management with Redux
+# Milestone 31: Global State Management with Redux
 
 ## ✅ Goals:
 
@@ -771,7 +773,32 @@ This project is an e-commerce website developed through a series of milestones, 
 
 Good luck, Kalvians! ✨
 
---- 
+---
+
+# Milestone 32: Storing and Accessing Mail in Global State with Redux
+
+## ✅ Goals:
+
+### 1️⃣ Backend - Redux Integration with Mail
+- Updated the Redux store to store the user's mail in the global state.
+- Used the `dispatch` method to store the email in the global state upon login.
+
+### 2️⃣ Frontend - Accessing Mail Across Pages
+- Used the `useSelector` hook to access the user's email in all pages.
+- Ensured that the global email state is available across different components and pages.
+
+### 3️⃣ Enhancing User Experience with Redux
+- Provided consistent access to the user's email across the application.
+- Ensured the application responds to the state updates in a seamless manner.
+
+### 4️⃣ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 32 details.
+- ✅ Shared the repository link for submission.
+
+Good luck, Kalvians! ✨
+
+---
 
 ## ▶ How to Run the Project  
 1. Clone the repository:  
